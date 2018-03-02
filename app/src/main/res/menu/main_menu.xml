@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/action_settings" />
+    <item
+        android:id="@+id/open_gallery"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/open_gallery" />
+    <item
+        android:id="@+id/DoG"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/DoG" />
+    <item
+        android:id="@+id/CannyEdges"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/CannyEdges" />
+    <item
+        android:id="@+id/SobelFilter"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/SobelFilter" />
+    <item
+        android:id="@+id/HoughLines"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/HoughLines" />
+    <item
+        android:id="@+id/HoughCircles"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/HoughCircles" />
+    <item
+        android:id="@+id/Contours"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/Contours" />
+    <item
+        android:id="@+id/HarrisCorners"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/HarrisCorners" />
+</menu>
